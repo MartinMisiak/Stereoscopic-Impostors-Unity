@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CG_Museum_Scene.unity
+    guid: 96e7c53f1355e694ca616960624ee7ca
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c4df6c93f8945f46a551073acde1684, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 90fb8082ee7045e4e9bfed2e8d585076, type: 2}
