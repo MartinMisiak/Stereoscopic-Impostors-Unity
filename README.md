@@ -1,4 +1,5 @@
-![Impostor_Title](https://github.com/MartinMisiak/Stereoscopic-Impostors-Unity/assets/40168931/af8f538f-02a0-4a99-8c81-6677ec0de50b)
+
+![Impostor_Title](https://github.com/MartinMisiak/Stereoscopic-Impostors-Unity/assets/40168931/1d0e5220-a798-47ca-8884-1970614d84fa)
 
 # Stereoscopic-Impostors-Unity
 Implementation of an impostor technique for VR rendering, based on the paper:  
